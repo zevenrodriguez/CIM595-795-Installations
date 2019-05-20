@@ -90,16 +90,14 @@ Documentation must include:
 * Link to collection
   * Exhibition Idea
     * Concept Introduction
-    * Layout or diagram of exhibit
+    * Script - Layout or diagram of exhibit
   * Exhibition Workshop
     * Concept Introduction
     * Script - Steps to complete activity
       * Supply list
       * Include Time for activity
 
-Read through Overview Guidelines of [Smithsonian Guidelines for Accessible Exhibition Design](https://www.si.edu/Accessibility/SGAED)
-
-#### Things to consider
+#### Things to consider/tackle
 * Exhibition Items
 * Label Design and Text
 * Audiovisuals and Interactives
@@ -108,6 +106,8 @@ Read through Overview Guidelines of [Smithsonian Guidelines for Accessible Exhib
 * Lighting
 * Location
   * Try to use existing location
+
+Read through Overview Guidelines of [Smithsonian Guidelines for Accessible Exhibition Design](https://www.si.edu/Accessibility/SGAED)
 
 ## Interactive Prototype
 Create a functional interactive prototype. Use your skills to develop a functional prototype.
@@ -119,14 +119,14 @@ Documentation must include:
 * Progress Images
 * Demo Video
 
-Read through Overview Guidelines of [Smithsonian Guidelines for Accessible Exhibition Design](https://www.si.edu/Accessibility/SGAED)
-
-#### Things to consider
+#### Things to consider/tackle
 * Label Design and Text
 * Audiovisuals and Interactives
 * Color
 * Location
   * Try to use existing location
+
+Read through Overview Guidelines of [Smithsonian Guidelines for Accessible Exhibition Design](https://www.si.edu/Accessibility/SGAED)
 
 
 ## Reading
