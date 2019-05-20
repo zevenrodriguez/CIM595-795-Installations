@@ -19,11 +19,14 @@ In this hands-on course students will learn how to develop interactive installat
     * https://artsandculture.google.com/theme/4QKSkqTAGnJ2LQ
     * https://medium.com/@lubar/cabinets-of-curiosity-a134f65c115a
     * https://itp.nyu.edu/classes/cow-fall2016/category/dioramas/
+    * #### HW: Create your own Cabinet of Curiosity or Diorama
   * Schedule visits
-    * Frost go early
-    * ArtTech House Open Late
-    * PAMM Thurs till 9PM
-  * #### HW: Create your own Cabinet of Curiosity
+    * [Frost Science Museum](https://www.frostscience.org/)
+    * [Artechouse](https://www.artechouse.com/)
+    * [PAMM](https://www.pamm.org/)
+    * Miami Children's Museum
+    * [Kislak Center at the University of Miami](https://www.library.miami.edu/kislak-center/)
+    * [Lowe Art Museum at the University of Miami](https://www.lowe.miami.edu/)
 * May 22
   * Monica Travis - http://www.monicaleslietravis.com/
 * May 23
