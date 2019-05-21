@@ -14,7 +14,7 @@ In this hands-on course students will learn how to develop interactive installat
 ### May 21-23
 
 * May 21
-  * Intro to Exhibits
+  * [Intro to Exhibits](https://docs.google.com/presentation/d/1ZVe9pdJYLcYXy5IZvn26fuylcAf5H4IQlbtMZeQbSPk/edit?usp=sharing)
   * Cabinet of Curiosities
     * https://artsandculture.google.com/theme/4QKSkqTAGnJ2LQ
     * https://medium.com/@lubar/cabinets-of-curiosity-a134f65c115a
