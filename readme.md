@@ -82,7 +82,7 @@ Reference to public history scholarship, broadly construed. How does this exhibi
 [Example Review](https://github.com/zevenrodriguez/oddgui/blob/master/2018-09-09-interpretive-exhibits-assignment-1.md)
 
 ## Exhibition Idea or Workshop
-Create a concept for a physical exhibit or workshop using a current collection from the Lowe or University of Miami Libraries
+Create a concept for a physical exhibit or workshop using a current collection from the [Lowe](https://emuseum1.as.miami.edu/collections) or [University of Miami Libraries Special Collections](https://merrick.library.miami.edu/digitalprojects/special.php)
 
 Documentation must include:
 
