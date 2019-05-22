@@ -2,7 +2,7 @@
 
 ### Instructor: Zevensuy Rodriguez
 #### Class Time: Thursday, 5:00-7:00pm
-#### Class Site: https://github.com/zevenrodriguez/CIM542-642
+#### Class Site: https://github.com/zevenrodriguez/CIM595-795-Installations
 #### Office: Francis L. Wolfson Building 2022
 #### Office Hours: https://calendly.com/zevenrodriguez
 #### Email: zevenrodriguez@miami.edu
@@ -42,11 +42,13 @@ In this hands-on course students will learn how to develop interactive installat
 
 ### June 4-6
 * June 4th
-  * Cabinets due
+  * James Brazil - http://www.studiojamesbrazil.com/
+    * https://coconutgrove.com/bohemiaonthebay/coconut-grove-commissions-international-artists-to-transform-dry-cleaner-into-interactive-public-art-mural/
 * June 5th
   * Exhibition Idea or Workshop Proposals
   * Interactive Prototype Proposals
 * June 6th
+  * Cabinets due
   * Workday
 
 ### June 11-13
