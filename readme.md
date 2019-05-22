@@ -20,6 +20,7 @@ In this hands-on course students will learn how to develop interactive installat
     * https://medium.com/@lubar/cabinets-of-curiosity-a134f65c115a
     * https://itp.nyu.edu/classes/cow-fall2016/category/dioramas/
     * #### HW: Create your own Cabinet of Curiosity or Diorama
+      * 
   * Schedule visits
     * [Frost Science Museum](https://www.frostscience.org/)
     * [Artechouse](https://www.artechouse.com/)
