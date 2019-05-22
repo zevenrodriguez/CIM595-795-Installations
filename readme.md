@@ -1,4 +1,4 @@
-# CIM 595-795 Special Topics in CIM Installations
+# CIM 594-795 Special Topics in CIM Installations
 
 ### Instructor: Zevensuy Rodriguez
 #### Class Time: Thursday, 5:00-7:00pm
