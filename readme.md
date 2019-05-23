@@ -20,7 +20,7 @@ In this hands-on course students will learn how to develop interactive installat
     * https://medium.com/@lubar/cabinets-of-curiosity-a134f65c115a
     * https://itp.nyu.edu/classes/cow-fall2016/category/dioramas/
     * #### HW: Create your own Cabinet of Curiosity or Diorama
-      * 
+      * [Examples](cabinetsofcuriosities.md)
   * Schedule visits
     * [Frost Science Museum](https://www.frostscience.org/)
     * [Artechouse](https://www.artechouse.com/)
@@ -39,7 +39,7 @@ In this hands-on course students will learn how to develop interactive installat
 * May 29th
   * Lowe Visit
 * May 30th
-  * Museum Visit?
+  * [Artechouse](https://www.artechouse.com/), Meet at 5pm at SoC and we'll carpool from there.
 
 ### June 4-6
 * June 4th
@@ -49,6 +49,7 @@ In this hands-on course students will learn how to develop interactive installat
   * Exhibition Idea or Workshop Proposals
   * Interactive Prototype Proposals
 * June 6th
+  * [Kislak Center at the University of Miami](https://www.library.miami.edu/kislak-center/) 5-6 PM meet at the Kislak Center by the library
   * Cabinets due
   * Workday
 
