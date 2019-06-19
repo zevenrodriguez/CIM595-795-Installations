@@ -1,0 +1,57 @@
+var method = "GET";
+var url = "https://apps.guidebycell.com/gbc2/mobi/livefeed.do?method=getSelfieGallery&entryid=1935&id=274576";
+
+var xhr = new XMLHttpRequest();
+
+xhr.open(method, url);
+
+xhr.setRequestHeader("Content-Type", "text/plain;charset=UTF-8");
+xhr.setRequestHeader("Access-Control-Allow-Origin", "*");
+
+
+
+xhr.send();
+
+// var xhr = new XMLHttpRequest();
+//       xhr.open('POST', 'http://apps.guidebycell.com/gbc2/mobi/livefeed.do?method=getSelfieGallery&entryid=1935&id=274576', true);
+//       xhr.withCredentials = true;
+//       xhr.onreadystatechange = function() {
+//         if (xhr.readyState === 2) {
+//           // do something
+//         }
+//       }
+//       xhr.setRequestHeader('Content-Type', 'application/json');
+//       xhr.send();
+//initialize()
+
+// var iframeData = $('#myIFrame').contents().find('body').html();
+//
+// console.log(iframeData);
+// document.getElementById('myIFrame').contentWindow.document.body.innerHTML
+
+//     fetch('http://apps.guidebycell.com/gbc2/mobi/livefeed.do?method=getSelfieGallery&entryid=1935&id=274576')
+// .then(function(response) {
+//   return response.json();
+// })
+// .then(function(myJson) {
+//   console.log(JSON.stringify(myJson));
+// });
+//   });
+
+//   fetch('http://apps.guidebycell.com/gbc2/mobi/livefeed.do', {
+//     method: 'getSelfieGallery',
+//     entryid: 1935,
+//     id: 274576
+// });
+//
+// $.get("https://apps.guidebycell.com/gbc2/mobi/livefeed.do?method=getSelfieGallery&entryid=1935&id=274576", function( data ) {
+//   $( ".result" ).html( data );
+//   //alert( "Load was performed." );
+// });
+
+// var xmlhttp = new XMLHttpRequest();
+//
+// xmlhttp.open("GET", "/gbc2/mobi/livefeed.do?method=getSelfieGallery&entryid=1935&id=274576", false);
+// xmlhttp.setRequestHeader("Referer","https://apps.guidebycell.com");
+// xmlhttp.send();
+// var data = JSON.parse(xmlhttp.responseText);

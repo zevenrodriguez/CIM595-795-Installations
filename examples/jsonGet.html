@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
+    <iframe src="http://apps.guidebycell.com/gbc2/mobi/livefeed.do?method=getSelfieGallery&entryid=1935&id=274576" id="myIFrame"></iframe>
+
+<script type="text/javascript">
+
+
+
+</script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script type="text/javascript">
+/*
+      axios.get('https://news.ycombinator.com')
+  .then(function (response) {
+    // handle success
+    console.log(response);
+  })
+  .catch(function (error) {
+    // handle error
+    console.log(error);
+  })
+  .finally(function () {
+    // always executed
+  });
+  */
+    </script>
+    <script>
+    var startLoop = false;
+    $(document).ready(function() {
+
+    
+
+});
+
+    function initialize() {
+      if (!startLoop) {
+        startLoop = true;
+        dataReady();
+        var goal = 0;
+        update(); // after the first load we need a status update
+      }
+    }
+
+    function dataReady() {
+      setInterval("update()", 5000);
+    }
+    // Retrieve the JSON and update the page with the latest results
+    function update() {
+      var t = new Date();
+      var quesid = $("#quesid").val();
+      $.getJSON('https://apps.guidebycell.com/gbc2/mobi/livefeed.do', {
+          method: 'getSelfieGallery',
+          entryid: 1935,
+          id: 274576
+        },
+        function(json) {
+          if (json["ERROR"]) {
+            $("#endmsg").html(json["ERROR"]);
+          } else {
+            initialize();
+          }
+          var data = json.data;
+          console.log(data);
+          // var clazz;
+          // var image = '',
+          //   who = '',
+          //   caption = '';
+          // $("#vlightbox1").empty();
+          // for (var i = 0; i < data.length; i++) {
+          //   var item = data[i];
+          //   image = $.trim(item['img']);
+          //   who = item['likes'];
+          //   caption = item['caption'];
+          //   //if (who == ''||who=='null'){ who = 'Anonymous'; }
+          //   if (image.indexOf("video") != -1) {
+          //     var thumb = image.substring(0, image.lastIndexOf(".")).replace("convert", "cover");
+          //     $("#vlightbox1").append('<a class="vlightbox1 fancybox" href=/msgstore/video/wap1935/' + image + ' name=/msgstore/video/wap1935/' + image.substring(0, image.lastIndexOf(".")) + ' title=' + caption +
+          //       '><img src=/msgstore/video/wap1935/' + thumb + '.png alt=' + caption + '/><span class=cap>' + caption + '</span></a>');
+          //   } else
+          //     $("#vlightbox1").append('<a class=vlightbox1 href=/msgstore/gbc/c226/wap1935/photo/' + image + '?t=' + time + ' title=' + caption + '><img src=/msgstore/gbc/c226/wap1935/photo/' + image + '?t=' + time + ' alt=' + caption +
+          //       '/><span class=cap>' + caption + '</span></a>');
+          // } //json error check
+        }); // intial load of data
+    } // update
+    </script>
+
+  </body>
+</html>
